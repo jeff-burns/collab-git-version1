@@ -4,10 +4,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Open Sans", sans-serif;
+  color: #fff;
 }
 
 header {
   background-color: #003B4C;
+  color: #fff;
 }
 
 h1 {
@@ -18,4 +20,5 @@ h1 {
 
 main {
   padding: 1rem;
+  color: #fff;
 }
