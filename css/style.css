@@ -10,7 +10,6 @@ body {
 header {
   background-color: #003B4C;
   color: #fff;
-
 }
 
 h1 {
@@ -21,5 +20,7 @@ h1 {
 }
 
 main {
+  padding: 1rem;
+  color: #fff;
   padding: 1vw;
 }
