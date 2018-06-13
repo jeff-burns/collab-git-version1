@@ -16,9 +16,11 @@ h1 {
   padding: 1rem;
   margin: 0;
   color: #F79020;
+  background-color: #000;
 }
 
 main {
   padding: 1rem;
   color: #fff;
+  padding: 1vw;
 }
